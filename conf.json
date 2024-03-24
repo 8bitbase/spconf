@@ -3,5 +3,5 @@
   "constractDefault": 2,
   "maxRoundDefault": 7,
   "enableSwitchMode": true,
-  "isTest": false
+  "isTest": true
 }
