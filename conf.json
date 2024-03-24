@@ -1,5 +1,5 @@
 {
-  "expectedPairDefault": 0.5,
+  "expectedPairDefault": 0,
   "constractDefault": 1,
   "maxRoundDefault": 1,
   "enableSwitchMode": false,
