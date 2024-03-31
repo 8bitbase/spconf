@@ -1,7 +1,7 @@
 {
   "maxRoundDefault": 6,
   "expectedPairDefault": 2,
-  "constractDefault": 1,
+  "constractDefault": 2,
   "enableSwitchMode": false,
-  "isTest": true
+  "isTest": false
 }
