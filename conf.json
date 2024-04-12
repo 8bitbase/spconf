@@ -1,7 +1,8 @@
 {
-  "maxRoundDefault": 1,
+  "maxRoundDefault": 7,
   "expectedPairDefault": 0,
   "constractDefault": 1,
   "enableSwitchMode": false,
+  "enableAutoPilot": true,
   "isTest": true
 }
