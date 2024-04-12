@@ -3,5 +3,5 @@
   "expectedPairDefault": 0,
   "constractDefault": 1,
   "enableSwitchMode": false,
-  "isTest": false
+  "isTest": true
 }
