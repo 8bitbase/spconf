@@ -4,5 +4,5 @@
   "constractDefault": 1,
   "enableSwitchMode": false,
   "enableAutoPilot": true,
-  "isTest": true
+  "isTest": false
 }
